@@ -16,12 +16,12 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            return View("Privacy");
+            return View();
         }
 
         public IActionResult Privacy()
         {
-            return View();
+            return View("Privacy");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
