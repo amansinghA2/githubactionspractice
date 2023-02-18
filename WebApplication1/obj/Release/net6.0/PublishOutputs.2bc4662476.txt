@@ -1,0 +1,7 @@
+D:\Dot Net Core\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+D:\Dot Net Core\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Dot Net Core\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Dot Net Core\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+D:\Dot Net Core\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+D:\Dot Net Core\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\Dot Net Core\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
